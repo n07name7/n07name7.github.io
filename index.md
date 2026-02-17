@@ -34,9 +34,10 @@ Expected Graduation: 2026
 
 ### Interactive Web Maps
 - [Population Change Map](webapps/population-change/) - Interactive visualization of demographic changes using QGIS2Web and OpenLayers
+- [Geoinformatics Multimedia System](projects/mms-geoinformatics.md) - Educational web platform with interactive GIS galleries and spatial analysis examples
 
-### Spatial Analysis
-- Coming soon
+### Web Development
+- [MMS - Geoinformatika](https://n07name7.github.io/MMS/) - Academic project showcasing GIS concepts through multimedia content
 
 ## Web Applications
 - [Population Change Map](webapps/population-change/) - Interactive thematic map showing population dynamics
