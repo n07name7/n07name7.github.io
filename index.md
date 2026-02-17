@@ -8,7 +8,8 @@ Specializing in geographic information systems for urban planning, population an
 
 ## Education
 **Geospatial Information Systems**  
-### [Your University Name]
+### VŠB-TUO (Technical University of Ostrava)
+Vysoká škola Banská technická univerzita Ostrava  
 Expected Graduation: 2026
 
 ## Skills
@@ -42,4 +43,4 @@ Expected Graduation: 2026
 
 ## Contact
 - GitHub: [github.com/n07name7](https://github.com/n07name7)
-- Email: [your-email]
+- Email: ivan.fediukov@gmail.com
